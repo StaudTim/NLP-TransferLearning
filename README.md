@@ -12,11 +12,16 @@ The exam consisted of 3 parts:
 ## Table of Contents
 
 - [Install](#install)
-- [Usage](#usage)
+- [Run](#usage)
 
 ## Install
+To install jupyter notebook:
 ```sh
-$ pip install -r requirements.txt
+$ pip install notebook
 ```
 
-## Usage
+## Run
+To run the notebook:
+```sh
+$ jupyter notebook
+```
